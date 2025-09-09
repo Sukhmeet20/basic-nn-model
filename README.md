@@ -82,18 +82,20 @@ model.predict(X_n1_1)
 
 ```
 ## DATASET INFORMATION:
-![image](https://github.com/Rithigasri/basic-nn-model/assets/93427256/cdef71ea-4774-4bf2-baf2-9d7dae7d9592)
+<img width="313" height="715" alt="image" src="https://github.com/user-attachments/assets/1bf72de4-c3a0-4594-b61a-24e52deea490" />
+
 
 
 ## OUTPUT:
 ### Training Loss Vs Iteration Plot:
-![image](https://github.com/Rithigasri/basic-nn-model/assets/93427256/a7b48087-1179-4781-8786-e3d160344202)
+<img width="801" height="555" alt="image" src="https://github.com/user-attachments/assets/7bd1b67e-bcf8-4ec8-9f2b-a9d6fff8402f" />
+
 ### Epoch Training:
-![image](https://github.com/Rithigasri/basic-nn-model/assets/93427256/1247ecf7-80e4-4443-ab84-c09d0cd4d541)
-### Test Data Root Mean Squared Error:
-![image](https://github.com/Rithigasri/basic-nn-model/assets/93427256/0114d30a-8081-4205-a158-95efe5450804)
+<img width="613" height="312" alt="image" src="https://github.com/user-attachments/assets/05a37b25-f532-457b-a872-0d7ec40fe674" />
+
 ### New Sample Data Prediction:
-![image](https://github.com/Rithigasri/basic-nn-model/assets/93427256/ea52cc7b-b09f-400c-90e8-a8170793c2ef)
+<img width="388" height="75" alt="image" src="https://github.com/user-attachments/assets/2dadae50-d57b-490c-b76c-54d5c47283cc" />
+
 
 
 ## RESULT:
